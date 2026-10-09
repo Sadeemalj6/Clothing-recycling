@@ -85,7 +85,7 @@ Models were evaluated on the held-out test set of 4,529 images. Precision, recal
 | ------------ | --------------: | --------------: | --------------: | --------------: | --------------: |
 | Baseline CNN |          0.8905 |          0.2226 |          0.2500 |          0.2355 |          0.2226 |
 | ResNet50     |          0.8159 |          0.3848 |          0.3977 |          0.3884 |          0.2961 |
-| ViT          | To be confirmed | To be confirmed | To be confirmed | To be confirmed | To be confirmed |
+| ViT          |          0.8505 |          0.2938 |          0.2900 |          0.2915 |         0.2475  |
 
 > **Key finding:** The Baseline CNN achieved high accuracy but predicted `Donation Ready` for every test image. This demonstrates why accuracy alone can be misleading when working with imbalanced datasets.
 
