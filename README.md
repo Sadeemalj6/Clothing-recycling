@@ -1,4 +1,4 @@
-# ♻️ ReVision | Computer Vision for Sustainable Fashion
+# ♻️ ReVision | Computer Vision Project
 
 **ReVision** is a Computer Vision prototype developed during the **Computer Vision Bootcamp by Saudi Digital Academy (SDA)**. It aims to encourage thoughtful clothing donations by helping identify second-hand clothing that is ready for reuse, needs minor repairs, can be transformed into something new, or is better suited for recycling.
 
